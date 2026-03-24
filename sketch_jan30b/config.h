@@ -32,4 +32,4 @@ static const int PIN_3A = 12;
 static const int PIN_3B = 13;
 
 // Dead-time logiciel éventuel
-static const uint32_t DEADTIME_US = 2;
+static const uint32_t DEADTIME_US = 0;
